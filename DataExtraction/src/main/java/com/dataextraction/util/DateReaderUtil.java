@@ -14,7 +14,7 @@ public class DateReaderUtil {
 	
 	public List<DateGroup> getDatesInString (String data) {
 		 List<DateGroup> dates = new Parser().parse(data);
-		 System.out.println("Date Group size"+dates.size());
+		 System.out.println("Total Number of Date Groups in PDF"+dates.size());
 		 return dates;
 	}
 	

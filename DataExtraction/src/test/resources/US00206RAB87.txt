@@ -1,0 +1,434 @@
+
+Date number 0
+Date : May 24, 2005
+Line Number 4
+Sentence SEC File No. 333-118476Prospectus Supplement to Prospectus dated May 24, 2005.(SBC 
+
+
+Date number 1
+Date : February 15, May 15, August 15 and November 15
+Line Number 13
+Sentence        We will pay interest on the floating rate notes due 2008 (the “Floating Rate Notes”) at a rate equal to the Applicable LIBORRate, reset quarterly, plus 9 basis points, on February 15, May 15, August 15 and November 15 of each year. The first suchpayment will be made on August 15, 2006.
+
+
+Date number 2
+Date : August 15, 2006
+Line Number 14
+Sentence Rate, reset quarterly, plus 9 basis points, on February 15, May 15, August 15 and November 15 of each year. The first suchpayment will be made on August 15, 2006.       We will pay interest on the 6.800% notes due 2036 (the “Fixed Rate Notes”) on May 15 and November 15 of each year. The first
+
+
+Date number 3
+Date : May 15 and November 15
+Line Number 15
+Sentence payment will be made on August 15, 2006.       We will pay interest on the 6.800% notes due 2036 (the “Fixed Rate Notes”) on May 15 and November 15 of each year. The firstpayment will be made on November 15, 2006.
+
+
+Date number 4
+Date : November 15, 2006
+Line Number 16
+Sentence        We will pay interest on the 6.800% notes due 2036 (the “Fixed Rate Notes”) on May 15 and November 15 of each year. The firstpayment will be made on November 15, 2006.       We may redeem some or all of the Fixed Rate Notes at any time at the “make-whole premium” price indicated under the
+
+
+Date number 5
+Date : May 18, 2006
+Line Number 35
+Sentence        The initial public offering prices set forth above do not include accrued interest, if any. Interest on the Floating Rate Notes andthe Fixed Rate Notes offered hereby will accrue from May 18, 2006 and must be paid by the purchasers if the notes are deliveredafter May 18, 2006.
+
+
+Date number 6
+Date : May 18, 2006
+Line Number 36
+Sentence the Fixed Rate Notes offered hereby will accrue from May 18, 2006 and must be paid by the purchasers if the notes are deliveredafter May 18, 2006. 
+
+
+Date number 7
+Date : May 18, 2006
+Line Number 39
+Sentence        The underwriters expect to deliver the notes through the facilities of The Depository Trust Company against payment in NewYork, New York on May 18, 2006.Joint Book-Running Managers
+
+
+Date number 8
+Date : May 15, 2008
+Line Number 103
+Sentence  Maturity Dates May 15, 2008 for the Floating Rate Notes. 
+
+
+Date number 9
+Date : May 15, 2036
+Line Number 105
+Sentence  May 15, 2036 for the Fixed Rate Notes. 
+
+
+Date number 10
+Date : May 18, 2006
+Line Number 107
+Sentence  Interest Rates The Floating Rate Notes offered hereby will bear interest from May 18, 2006 at a floating rate equal tothe Applicable LIBOR Rate, reset quarterly, plus 9 basis points, payable quarterly in arrears.
+
+
+Date number 11
+Date : May 18, 2006
+Line Number 110
+Sentence  The Fixed Rate Notes will bear interest from May 18, 2006 at the rate of 6.800% per annum, payablesemi-annually in arrears.
+
+
+Date number 12
+Date : February 15, May 15, August 15 and November 15
+Line Number 113
+Sentence  Interest Payment Dates February 15, May 15, August 15 and November 15 of each year, commencing on August 15, 2006, inthe case of the Floating Rate Notes, and May 15 and November 15 of each year, commencing on
+
+
+Date number 13
+Date : August 15, 2006
+Line Number 113
+Sentence  Interest Payment Dates February 15, May 15, August 15 and November 15 of each year, commencing on August 15, 2006, inthe case of the Floating Rate Notes, and May 15 and November 15 of each year, commencing on
+
+
+Date number 14
+Date : May 15 and November 15
+Line Number 114
+Sentence Interest Payment Dates February 15, May 15, August 15 and November 15 of each year, commencing on August 15, 2006, inthe case of the Floating Rate Notes, and May 15 and November 15 of each year, commencing onNovember 15, 2006, in the case of the Fixed Rate Notes.
+
+
+Date number 15
+Date : November 15, 2006
+Line Number 115
+Sentence the case of the Floating Rate Notes, and May 15 and November 15 of each year, commencing onNovember 15, 2006, in the case of the Fixed Rate Notes. 
+
+
+Date number 16
+Date : March 31, 2006
+Line Number 146
+Sentence CAPITALIZATION      The following table sets forth the capitalization of AT&T as of March 31, 2006 and as adjusted to reflect (a) our proposed acquisition ofBellSouth Corporation (“BLS”) as described in our reports incorporated by reference into this prospectus supplement, including our current
+
+
+Date number 17
+Date : one year
+Line Number 151
+Sentence proceeds from the sale of the notes would be used to repay approximately $1.49 billion of AT&T’s outstanding long-term debt. AT&T’s totalcapital consists of debt (long-term debt and debt maturing within one year) and stockholders’ equity. This table reflects certain unauditedconsolidated financial information for the three-month period ended March 31, 2006 that was included in our quarterly report on Form 10-Q
+
+
+Date number 18
+Date : March 31, 2006
+Line Number 152
+Sentence capital consists of debt (long-term debt and debt maturing within one year) and stockholders’ equity. This table reflects certain unauditedconsolidated financial information for the three-month period ended March 31, 2006 that was included in our quarterly report on Form 10-Qfiled on May 5, 2006.
+
+
+Date number 19
+Date : May 5, 2006
+Line Number 153
+Sentence consolidated financial information for the three-month period ended March 31, 2006 that was included in our quarterly report on Form 10-Qfiled on May 5, 2006.          
+
+
+Date number 20
+Date : March 31, 2006
+Line Number 155
+Sentence             As of March 31, 2006   
+
+
+Date number 21
+Date : one year
+Line Number 162
+Sentence Long-term debt  $ 25,829  $ 53,539 Debt maturing within one year(1)   5,712   9,146 Stockholders’ equity:         
+
+
+Date number 22
+Date : March 31, 2006
+Line Number 179
+Sentence (2) Other adjustments do not reflect any adjustment to other comprehensive income that would result from the difference in amount of thepayments to utilize interest rate locks from the amounts included in other comprehensive income as of March 31, 2006 which reflectedinterest rates at that time.
+
+
+Date number 23
+Date : May 15, 2008
+Line Number 207
+Sentence The Floating Rate Notes      The Floating Rate Notes will initially be limited to $900,000,000 aggregate principal amount and will mature on May 15, 2008 (the “FloatingRate Maturity Date”).
+
+
+Date number 24
+Date : May 18, 2006
+Line Number 209
+Sentence Rate Maturity Date”).      The Floating Rate Notes will bear interest from May 18, 2006 at a floating rate determined in the manner provided below, payable onFebruary 15, May 15, August 15 and November 15 of each year (each such day a “Floating Rate Interest Payment Date”), commencing on
+
+
+Date number 25
+Date : February 15, May 15, August 15 and November 15
+Line Number 210
+Sentence       The Floating Rate Notes will bear interest from May 18, 2006 at a floating rate determined in the manner provided below, payable onFebruary 15, May 15, August 15 and November 15 of each year (each such day a “Floating Rate Interest Payment Date”), commencing onAugust 15, 2006, to the persons in whose names the Floating Rate Notes were registered at the close of business on the 15th day preceding
+
+
+Date number 26
+Date : August 15, 2006
+Line Number 211
+Sentence February 15, May 15, August 15 and November 15 of each year (each such day a “Floating Rate Interest Payment Date”), commencing onAugust 15, 2006, to the persons in whose names the Floating Rate Notes were registered at the close of business on the 15th day precedingthe respective Floating Rate Interest Payment Date, subject to certain exceptions.
+
+
+Date number 27
+Date : February 15, May 15, August 15 and November 15
+Line Number 215
+Sentence Period (as defined below) will be equal to the Applicable LIBOR Rate plus 9 basis points (.09%). The Floating Interest Rate for each FloatingRate Interest Period for the Floating Rate Notes will be set on February 15, May 15, August 15 and November 15 of each year and will be setfor the initial Floating Rate Interest Period on May 18, 2006 (each such date, a “Floating Rate Interest Reset Date”) until the principal on the
+
+
+Date number 28
+Date : May 18, 2006
+Line Number 216
+Sentence Rate Interest Period for the Floating Rate Notes will be set on February 15, May 15, August 15 and November 15 of each year and will be setfor the initial Floating Rate Interest Period on May 18, 2006 (each such date, a “Floating Rate Interest Reset Date”) until the principal on theFloating Rate Notes is paid or made available for payment (the “Floating Rate Principal Payment Date”). If any Floating Rate Interest Reset
+
+
+Date number 29
+Date : May 18, 2006
+Line Number 218
+Sentence Floating Rate Notes is paid or made available for payment (the “Floating Rate Principal Payment Date”). If any Floating Rate Interest ResetDate (other than the initial Floating Rate Interest Reset Date occurring on May 18, 2006) and Floating Rate Interest Payment Date for theFloating Rate Notes would otherwise be a day that is not a LIBOR Business Day, such Floating Rate Interest Reset Date and Floating Rate
+
+
+Date number 30
+Date : Saturday or Sunday
+Line Number 226
+Sentence Rate Interest Reset Date and Floating Rate Interest Payment Date shall be the immediately preceding LIBOR Business Day.      “LIBOR Business Day” means any day that is not a Saturday or Sunday and that, in The City of New York or the City of London, is not aday on which banking institutions are generally authorized or obligated by law to close. “Floating Rate Interest Period” shall mean the period
+
+
+Date number 31
+Date : three
+months
+Line Number 237
+Sentence Floating Rate Interest Reset Date (each such date an “Interest Determination Date”), The Bank of New York (the “Reference Agent”), asagent for AT&T, will determine the Applicable LIBOR Rate which shall be the rate for deposits in U.S. dollars having a maturity of threemonths, which appears on the Telerate Page 3750 as of 11:00 a.m., London time, on such Interest Determination Date. “Telerate Page 3750”
+
+
+Date number 32
+Date : 11:00 a.m.
+Line Number 238
+Sentence agent for AT&T, will determine the Applicable LIBOR Rate which shall be the rate for deposits in U.S. dollars having a maturity of threemonths, which appears on the Telerate Page 3750 as of 11:00 a.m., London time, on such Interest Determination Date. “Telerate Page 3750”means the display page so designed on Moneyline Telerate, Inc. (or such other page as may replace that page on that service or such
+
+
+Date number 33
+Date : 11:00 a.m.
+Line Number 247
+Sentence offered by four major banks in the London interbank market selected by the Reference Agent (the “Reference Banks”) at approximately11:00 a.m., London time, on such Interest Determination Date to prime banks in the London interbank market having a maturity of threemonths, and in a principal amount equal to an amount of not less than U.S.$1,000,000 that is representative for a single transaction in such
+
+
+Date number 34
+Date : three
+months
+Line Number 247
+Sentence offered by four major banks in the London interbank market selected by the Reference Agent (the “Reference Banks”) at approximately11:00 a.m., London time, on such Interest Determination Date to prime banks in the London interbank market having a maturity of threemonths, and in a principal amount equal to an amount of not less than U.S.$1,000,000 that is representative for a single transaction in such
+
+
+Date number 35
+Date : 11:00 a.m.
+Line Number 255
+Sentence percentage point, with 5 one-millionths of a percentage point rounded upwards) of the rates quoted by three major banks in New York Cityselected by the Reference Agent at approximately 11:00 a.m., New York City time, on such Interest Determination Date for loans inU.S. dollars to leading European banks, having a maturity of three months, and in a principal amount equal to an amount of not less than
+
+
+Date number 36
+Date : May 18, 2006
+Line Number 278
+Sentence The Fixed Rate Notes      The Fixed Rate Notes will initially be limited to $600,000,000 aggregate principal amount and will bear interest from May 18, 2006 at the rateof 6.800% per annum. We will pay interest on our Fixed Rate Notes in arrears on each May 15 and November 15, commencing on November 15,
+
+
+Date number 37
+Date : May 15 and November 15
+Line Number 279
+Sentence       The Fixed Rate Notes will initially be limited to $600,000,000 aggregate principal amount and will bear interest from May 18, 2006 at the rateof 6.800% per annum. We will pay interest on our Fixed Rate Notes in arrears on each May 15 and November 15, commencing on November 15,2006, to the persons in whose names our Fixed Rate Notes are registered at the close of business on May 1 and November 1 preceding the
+
+
+Date number 38
+Date : November 15,
+2006
+Line Number 279
+Sentence       The Fixed Rate Notes will initially be limited to $600,000,000 aggregate principal amount and will bear interest from May 18, 2006 at the rateof 6.800% per annum. We will pay interest on our Fixed Rate Notes in arrears on each May 15 and November 15, commencing on November 15,2006, to the persons in whose names our Fixed Rate Notes are registered at the close of business on May 1 and November 1 preceding the
+
+
+Date number 39
+Date : May 1 and November 1
+Line Number 280
+Sentence of 6.800% per annum. We will pay interest on our Fixed Rate Notes in arrears on each May 15 and November 15, commencing on November 15,2006, to the persons in whose names our Fixed Rate Notes are registered at the close of business on May 1 and November 1 preceding therespective interest payment date. The Fixed Rate Notes will mature on May 15, 2036.
+
+
+Date number 40
+Date : May 15, 2036
+Line Number 281
+Sentence 2006, to the persons in whose names our Fixed Rate Notes are registered at the close of business on May 1 and November 1 preceding therespective interest payment date. The Fixed Rate Notes will mature on May 15, 2036.      For purposes of the Fixed Rate Notes, a business day means a day that is not a Saturday or Sunday and that, in The City of New York, is
+
+
+Date number 41
+Date : Saturday or Sunday
+Line Number 282
+Sentence respective interest payment date. The Fixed Rate Notes will mature on May 15, 2036.      For purposes of the Fixed Rate Notes, a business day means a day that is not a Saturday or Sunday and that, in The City of New York, isnot a day on which banking institutions are generally authorized or obligated by law to close. Interest will accrue on the Fixed Rate Notes
+
+
+Date number 42
+Date : at 3:30 p.m.
+Line Number 310
+Sentence determined by the trustee, of the bid and asked prices for the Comparable Treasury Issue (expressed in each case as a percentage of itsprincipal amount) quoted in writing to the trustee by such Reference Treasury Dealer at 3:30 p.m., New York City time, on the third businessday preceding such redemption date.
+
+
+Date number 43
+Date : May 24, 2005
+Line Number 579
+Sentence determined if this prospectus is truthful or complete. Any representation to the contrary is a criminal offense.The date of this Prospectus is May 24, 2005.This version of Total HTML Converter is unregistered.
+
+
+Date number 44
+Date : January 30, 2005
+Line Number 606
+Sentence We maintain an Internet site at the following location (which is not an active link): http://www.sbc.com.      On January 30, 2005, we agreed to acquire AT&T Corp. using shares of SBC stock. Based on the closing price of SBC stock on January 28,2005, the total transaction is valued at approximately $16 billion, including a special dividend to be paid to AT&T shareholders at the closing.
+
+
+Date number 45
+Date : January 28,
+2005
+Line Number 606
+Sentence We maintain an Internet site at the following location (which is not an active link): http://www.sbc.com.      On January 30, 2005, we agreed to acquire AT&T Corp. using shares of SBC stock. Based on the closing price of SBC stock on January 28,2005, the total transaction is valued at approximately $16 billion, including a special dividend to be paid to AT&T shareholders at the closing.
+
+
+Date number 46
+Date : December 31,
+2000  2001
+Line Number 616
+Sentence Year Ended December 31,  Year Ended  December 31,2000  2001  2002  2003  2004  2004
+
+
+Date number 47
+Date : 2000 to 2004
+Line Number 625
+Sentence accounting principles, undistributed earnings from equity investments, interest expenses, dividends on preferred securities and one-third ofrental expense (the portion of rentals representative of the interest factor), and for periods from 2000 to 2004, income from discontinuedoperations. Fixed charges include total interest charges on indebtedness and one-third of rental expense.
+
+
+Date number 48
+Date : two weeks
+Line Number 884
+Sentence       We will pay interest to you if you are a direct holder listed in the registrar’s records at the close of business on a particular day in advanceof each due date for interest, even if you no longer own the security on the interest due date. That particular day, usually about two weeks inadvance of the interest due date, is called the “record date” and is stated in the prospectus supplement. (Section 2.05) Holders buying and
+
+
+Date number 49
+Date : 90 days.
+10
+Line Number 1022
+Sentence we have been notified of the default by the trustee or holders of 25% in principal amount of the series, we do not cure the default within90 days.10
+
+
+Date number 50
+Date : April 21, 2005
+Line Number 1128
+Sentence preferred stock. Stockholders will not need to approve these resolutions.      As of April 21, 2005, no shares of preferred stock were outstanding.Terms Contained in Prospectus Supplement
+
+
+Date number 51
+Date : March 31, 2005, 3
+Line Number 1303
+Sentence       Our authorized share capital consists of 7,010,000,000 shares, of which 7,000,000,000 are common shares having a par value of $1.00 pershare and 10,000,000 are preferred shares having a par value of $1.00 per share. As of March 31, 2005, 3,305,320,147 shares of common stockwere outstanding. The common stock is listed on the New York Stock Exchange, the Chicago Stock Exchange and the Pacific Stock Exchange
+
+
+Date number 52
+Date : 14 or 15
+Line Number 1401
+Sentence   • all documents filed by the third party pursuant to Section 13(a), 13(c), 14 or 15(d) of the Securities Exchange Act of 1934 since the end ofthe third party’s last completed fiscal year, to the extent the third party is subject to the periodic reporting requirements of the Exchange
+
+
+Date number 53
+Date : April 21, 2005
+Line Number 1422
+Sentence us by Mr. James D. Ellis, Senior Executive Vice President and General Counsel of SBC, and for any underwriters, dealers or agents bySullivan & Cromwell LLP, New York, New York. As of April 21, 2005, Mr. Ellis owned less than 1% of the outstanding shares of SBC.Sullivan & Cromwell LLP from time to time performs legal services for SBC.
+
+
+Date number 54
+Date : December 31, 2004
+Line Number 1426
+Sentence       The consolidated financial statements of SBC incorporated by reference in SBC’s Annual Report (Form 10-K) for the year endedDecember 31, 2004 (including schedules appearing therein), and SBC management’s assessment of the effectiveness of internal control overfinancial reporting as of December 31, 2004 incorporated by reference therein, have been audited by Ernst & Young LLP, independent
+
+
+Date number 55
+Date : December 31, 2004
+Line Number 1427
+Sentence December 31, 2004 (including schedules appearing therein), and SBC management’s assessment of the effectiveness of internal control overfinancial reporting as of December 31, 2004 incorporated by reference therein, have been audited by Ernst & Young LLP, independentregistered public accounting firm, as set forth in their reports thereon, included and incorporated by reference therein, and incorporated herein
+
+
+Date number 56
+Date : December 31, 2004
+Line Number 1432
+Sentence       The consolidated financial statements of Cingular Wireless LLC included in SBC’s Annual Report on Form 10-K for the year endedDecember 31, 2004 have been audited by Ernst & Young LLP, independent20
+
+
+Date number 57
+Date : December 31, 2004
+Line Number 1455
+Sentence been furnished and not filed in accordance with SEC rules): • Our annual report on Form 10-K for the year ended December 31, 2004. 
+
+
+Date number 58
+Date : January 31, 2005, March 11, 2005 and May 3, 2005
+Line Number 1457
+Sentence   • Our current reports on Form 8-K filed on January 31, 2005, March 11, 2005 and May 3, 2005. 
+
+
+Date number 59
+Date : 14 or 15
+Line Number 1462
+Sentence   • Any documents that we file with the SEC pursuant to Section 13(a), 13(c), 14 or 15(d) of the Exchange Act after the date of thisprospectus and before the termination of the offering. If any statement in this prospectus conflicts with any statement in a document
+
+
+Date number 60
+Date : at 1-800-SEC-03
+Line Number 1481
+Sentence at the SEC’s Public Reference Room at 450 Fifth Street, N.W., Washington, D.C. 20549. You can also request copies of the documents, uponpayment of a duplicating fee, by writing the Public Reference Section of the SEC. Please call the SEC at 1-800-SEC-0330 for further informationon the operation of the Public Reference Room. These SEC filings are also available to the public from the SEC’s web site at
+
+--------------------------------------------------------------------------------------------------------------------------
+
+----------------Keyword Matching Data------------------
+
+Date : May 15, 2008
+Line Number 103
+ maturity dates may 15, 2008 for the floating rate notes. 
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : May 15, 2008
+Line Number 207
+the floating rate notes      the floating rate notes will initially be limited to $900,000,000 aggregate principal amount and will mature on may 15, 2008 (the “floatingrate maturity date”).
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : May 18, 2006
+Line Number 209
+rate maturity date”).      the floating rate notes will bear interest from may 18, 2006 at a floating rate determined in the manner provided below, payable onfebruary 15, may 15, august 15 and november 15 of each year (each such day a “floating rate interest payment date”), commencing on
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : three
+months
+Line Number 237
+floating rate interest reset date (each such date an “interest determination date”), the bank of new york (the “reference agent”), asagent for at&t, will determine the applicable libor rate which shall be the rate for deposits in u.s. dollars having a maturity of threemonths, which appears on the telerate page 3750 as of 11:00 a.m., london time, on such interest determination date. “telerate page 3750”
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : 11:00 a.m.
+Line Number 238
+agent for at&t, will determine the applicable libor rate which shall be the rate for deposits in u.s. dollars having a maturity of threemonths, which appears on the telerate page 3750 as of 11:00 a.m., london time, on such interest determination date. “telerate page 3750”means the display page so designed on moneyline telerate, inc. (or such other page as may replace that page on that service or such
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : 11:00 a.m.
+Line Number 247
+offered by four major banks in the london interbank market selected by the reference agent (the “reference banks”) at approximately11:00 a.m., london time, on such interest determination date to prime banks in the london interbank market having a maturity of threemonths, and in a principal amount equal to an amount of not less than u.s.$1,000,000 that is representative for a single transaction in such
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : three
+months
+Line Number 247
+offered by four major banks in the london interbank market selected by the reference agent (the “reference banks”) at approximately11:00 a.m., london time, on such interest determination date to prime banks in the london interbank market having a maturity of threemonths, and in a principal amount equal to an amount of not less than u.s.$1,000,000 that is representative for a single transaction in such
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : 11:00 a.m.
+Line Number 255
+percentage point, with 5 one-millionths of a percentage point rounded upwards) of the rates quoted by three major banks in new york cityselected by the reference agent at approximately 11:00 a.m., new york city time, on such interest determination date for loans inu.s. dollars to leading european banks, having a maturity of three months, and in a principal amount equal to an amount of not less than
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : at 3:30 p.m.
+Line Number 310
+determined by the trustee, of the bid and asked prices for the comparable treasury issue (expressed in each case as a percentage of itsprincipal amount) quoted in writing to the trustee by such reference treasury dealer at 3:30 p.m., new york city time, on the third businessday preceding such redemption date.
+KEYWORD TYPE : ISSUE
+
+Date : January 30, 2005
+Line Number 606
+we maintain an internet site at the following location (which is not an active link): http://www.sbc.com.      on january 30, 2005, we agreed to acquire at&t corp. using shares of sbc stock. based on the closing price of sbc stock on january 28,2005, the total transaction is valued at approximately $16 billion, including a special dividend to be paid to at&t shareholders at the closing.
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : January 28,
+2005
+Line Number 606
+we maintain an internet site at the following location (which is not an active link): http://www.sbc.com.      on january 30, 2005, we agreed to acquire at&t corp. using shares of sbc stock. based on the closing price of sbc stock on january 28,2005, the total transaction is valued at approximately $16 billion, including a special dividend to be paid to at&t shareholders at the closing.
+KEYWORD TYPE : MATURITY AMOUNT
+

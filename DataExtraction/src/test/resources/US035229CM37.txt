@@ -1,0 +1,205 @@
+
+Date number 0
+Date : MAY 1, 2002
+Line Number 1
+Sentence 424B2 1 form424b_050102.htm ANHEUSER-BUSCH COMPANIES, INC. - MAY 1, 2002Prospectus Supplement
+
+
+Date number 1
+Date : April 29, 2002
+Line Number 3
+Sentence Prospectus SupplementApril 29, 2002(To Prospectus dated July 23, 2001)
+
+
+Date number 2
+Date : July 23, 2001
+Line Number 4
+Sentence April 29, 2002(To Prospectus dated July 23, 2001)$250,000,000
+
+
+Date number 3
+Date : May 1, 2042
+Line Number 6
+Sentence $250,000,0006.50% Debentures Due May 1, 2042        The Debentures will bear interest at the rate of 6.50% per year. Interest on the Debentures is payable on May 1 and November
+
+
+Date number 4
+Date : May 1 and November
+1
+Line Number 7
+Sentence 6.50% Debentures Due May 1, 2042        The Debentures will bear interest at the rate of 6.50% per year. Interest on the Debentures is payable on May 1 and November1 of each year, beginning on November 1, 2002. The Debentures will mature on May 1, 2042. We may redeem some or all of the
+
+
+Date number 5
+Date : May 1, 2042
+Line Number 8
+Sentence         The Debentures will bear interest at the rate of 6.50% per year. Interest on the Debentures is payable on May 1 and November1 of each year, beginning on November 1, 2002. The Debentures will mature on May 1, 2042. We may redeem some or all of theDebentures at any time, or from time to time, at a price equal to 100% of the principal amount of the Debentures plus a make-whole
+
+
+Date number 6
+Date : May 2, 2002
+Line Number 24
+Sentence Proceeds to Anheuser-Busch Companies, Inc.  97.834%  $244,585,000(1)   Plus accrued interest from May 2, 2002, if settlement occurs after this date.        We do not currently intend to list the Debentures on any securities exchange. Currently, there is no public market for the
+
+
+Date number 7
+Date : May 2, 2002
+Line Number 28
+Sentence         The underwriters are offering the notes subject to various conditions. The underwriters expect to deliver the Debentures inbook-entry form through the facilities of The Depository Trust Company on or about May 2, 2002.Joint Book-Running Managers
+
+
+Date number 8
+Date : July 1, 2001
+Line Number 59
+Sentence DESCRIPTION OF THE DEBENTURES        We will issue the Debentures under an Indenture dated as of July 1, 2001 (the “Indenture”) between us and JPMorgan ChaseBank (formerly The Chase Manhattan Bank), as Trustee. Information about the Indenture is in the accompanying Prospectus under
+
+
+Date number 9
+Date : May 2, 2002
+Line Number 62
+Sentence “Description of the Debt Securities”.        The interest rate on the Debentures will be 6.50% per year, accruing from May 2, 2002. We will pay interest on May 1 andNovember 1, starting November 1, 2002. We will pay interest to the persons in whose names the Debentures are registered at the
+
+
+Date number 10
+Date : May 1 and
+November 1
+Line Number 62
+Sentence “Description of the Debt Securities”.        The interest rate on the Debentures will be 6.50% per year, accruing from May 2, 2002. We will pay interest on May 1 andNovember 1, starting November 1, 2002. We will pay interest to the persons in whose names the Debentures are registered at the
+
+
+Date number 11
+Date : November 1, 2002
+Line Number 63
+Sentence         The interest rate on the Debentures will be 6.50% per year, accruing from May 2, 2002. We will pay interest on May 1 andNovember 1, starting November 1, 2002. We will pay interest to the persons in whose names the Debentures are registered at theclose of business on the April 15 or October 15 preceding the payment date.
+
+
+Date number 12
+Date : April 15 or October 15
+Line Number 64
+Sentence November 1, starting November 1, 2002. We will pay interest to the persons in whose names the Debentures are registered at theclose of business on the April 15 or October 15 preceding the payment date.        We will issue the Debentures in book–entry form, as a single global Debenture registered in the name of the nominee of The
+
+
+Date number 13
+Date : 5:00 p.m.
+Line Number 86
+Sentence comparable to the remaining term of the Debentures to be redeemed and (c) applicable interest rate spreads between United StatesTreasury securities and such other debt securities, all as of 5:00 p.m., New York City time, on the third Business Day precedingsuch redemption date.
+
+
+Date number 14
+Date : at 5:00 p.m.
+Line Number 104
+Sentence average, as determined by us, of the bid and asked prices for the Comparable Treasury Issue (expressed in each case as apercentage of its principal amount) quoted in writing to the Trustee by such Reference Treasury Dealer at 5:00 p.m., New York Citytime, on the third Business Day preceding such redemption date.
+
+
+Date number 15
+Date : April 29, 2002
+Line Number 133
+Sentence         “Tax event” means the receipt by us of an opinion of tax counsel to the effect that, as a result of the occurrence of any of thefollowing events on or after April 29, 2002, there is more than an insubstantial increase in the risk that interest paid by us on theDebentures is not, or will not be, deductible, in whole or in part, by us for U.S. federal income tax purposes:
+
+
+Date number 16
+Date : July 23, 2001
+Line Number 235
+Sentence representation to the contrary is a criminal offense.The date of this Prospectus is July 23, 2001.This version of Total HTML Converter is unregistered.
+
+
+Date number 17
+Date : at 1-800-SEC-03
+Line Number 257
+Sentence      We file annual, quarterly and special reports, proxy statements and other information with the SEC. You may read and copy anyof these documents at the SEC’s public reference room in Washington, D.C. Please call the SEC at 1-800-SEC-0330 for furtherinformation on the public reference room. Our SEC filings are also available to the public at the SEC’s Internet website at
+
+
+Date number 18
+Date : 14, or 15
+Line Number 263
+Sentence SEC will automatically update and supersede this information. We incorporate by reference the documents listed below and anyfuture filings made with the SEC under Sections 13(a), 13(c), 14, or 15(d) of the Securities Exchange Act of 1934 until we sell all ofthe Debt Securities.
+
+
+Date number 19
+Date : December 31, 2000
+Line Number 265
+Sentence the Debt Securities.Our Annual Report on Form 10-K for the year ended December 31, 2000.Our Quarterly Report on Form 10-Q for the quarter ended March 31, 2001.
+
+
+Date number 20
+Date : March 31, 2001
+Line Number 266
+Sentence Our Annual Report on Form 10-K for the year ended December 31, 2000.Our Quarterly Report on Form 10-Q for the quarter ended March 31, 2001.     You may receive a copy of any of these filings, at no cost, by writing or telephoning the Corporate Secretary, Anheuser-Busch
+
+
+Date number 21
+Date : July 1, 2001
+Line Number 313
+Sentence Find More Information.”     We will issue the Debt Securities either under the Indenture dated as of July 1, 2001 between us and The Chase ManhattanBank, as trustee, or under a separate, substantially identical indenture to be entered into between us and a new trustee. We are
+
+
+Date number 22
+Date : July 1, 2001
+Line Number 394
+Sentence liens securing indebtedness owing to us or to a Restricted Subsidiary by a Restricted Subsidiary,liens existing at July 1, 2001 (the date of the Indenture),liens required in connection with state or local governmental programs which provide financial or tax benefits, as long as
+
+
+Date number 23
+Date : July 1, 2001
+Line Number 421
+Sentence financial or tax benefits to the Restricted Subsidiary, andguarantees existing at July 1, 2001 (the date of the Indenture). (Section 1008(a))6
+
+
+Date number 24
+Date : July 1, 2001
+Line Number 517
+Sentence Regarding the Trustee     The Chase Manhattan Bank is the Trustee under the Indenture. The Indenture is dated as of July 1, 2001. The Chase ManhattanBank also acts as trustee (or successor trustee) under other Indentures with us under which an aggregate of approximately $4.2
+
+
+Date number 25
+Date : may or may
+Line Number 601
+Sentence      Unless otherwise indicated in the Prospectus Supplement, each series of Debt Securities offered will be a new issue of securitiesand will have no established trading market. The Debt Securities may or may not be listed on a national securities exchange. Noassurance can be given as to the liquidity of or the existence of trading markets for any Debt Securities.
+
+
+Date number 26
+Date : December 31, 2000
+Line Number 607
+Sentence      The financial statements incorporated in this Prospectus by reference to the Annual Report on Form 10-K for the year endedDecember 31, 2000 have been so incorporated in reliance on the report of PricewaterhouseCoopers LLP, independent accountants,given on the authority of said firm as experts in auditing and accounting.
+
+
+Date number 27
+Date : May 1, 2042
+Line Number 616
+Sentence $250,000,0006.50% Debentures Due May 1, 2042Prospectus Supplement
+
+
+Date number 28
+Date : April 29, 2002
+Line Number 618
+Sentence Prospectus SupplementApril 29, 2002Bank of America Securities LLC
+
+--------------------------------------------------------------------------------------------------------------------------
+
+----------------Keyword Matching Data------------------
+
+Date : July 1, 2001
+Line Number 59
+description of the debentures        we will issue the debentures under an indenture dated as of july 1, 2001 (the “indenture”) between us and jpmorgan chasebank (formerly the chase manhattan bank), as trustee. information about the indenture is in the accompanying prospectus under
+KEYWORD TYPE : ISSUE
+
+Date : April 15 or October 15
+Line Number 64
+november 1, starting november 1, 2002. we will pay interest to the persons in whose names the debentures are registered at theclose of business on the april 15 or october 15 preceding the payment date.        we will issue the debentures in book–entry form, as a single global debenture registered in the name of the nominee of the
+KEYWORD TYPE : ISSUE
+
+Date : at 5:00 p.m.
+Line Number 104
+average, as determined by us, of the bid and asked prices for the comparable treasury issue (expressed in each case as apercentage of its principal amount) quoted in writing to the trustee by such reference treasury dealer at 5:00 p.m., new york citytime, on the third business day preceding such redemption date.
+KEYWORD TYPE : ISSUE
+
+Date : July 1, 2001
+Line Number 313
+find more information.”     we will issue the debt securities either under the indenture dated as of july 1, 2001 between us and the chase manhattanbank, as trustee, or under a separate, substantially identical indenture to be entered into between us and a new trustee. we are
+KEYWORD TYPE : ISSUE
+
+Date : may or may
+Line Number 601
+     unless otherwise indicated in the prospectus supplement, each series of debt securities offered will be a new issue of securitiesand will have no established trading market. the debt securities may or may not be listed on a national securities exchange. noassurance can be given as to the liquidity of or the existence of trading markets for any debt securities.
+KEYWORD TYPE : ISSUE
+

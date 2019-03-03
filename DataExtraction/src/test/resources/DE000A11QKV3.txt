@@ -1,0 +1,278 @@
+
+Date number 0
+Date : November 21, 2014 
+21
+Line Number 6
+Sentence  November 21, 2014 21. November 2014 
+
+
+Date number 1
+Date : November 25, 2019
+Line Number 11
+Sentence  EUR 1,000,000,000 0.250 per cent. Notes due November 25, 2019 (the "Notes") EUR 1.000.000.000 0,250 % Schuldverschreibungen fällig am 25. November 2019 (die 
+
+
+Date number 2
+Date : 25. November 2019
+Line Number 12
+Sentence EUR 1,000,000,000 0.250 per cent. Notes due November 25, 2019 (the "Notes") EUR 1.000.000.000 0,250 % Schuldverschreibungen fällig am 25. November 2019 (die "Schuldverschreibungen") 
+
+
+Date number 3
+Date : July 4, 2014
+Line Number 24
+Sentence  dated July 4, 2014 vom 4. Juli 2014 
+
+
+Date number 4
+Date : November 25, 2014
+Line Number 35
+Sentence  Issue Date: November 25, 2014 Tag der Begebung: 25. November 2014 
+
+
+Date number 5
+Date : 25. November 2014
+Line Number 36
+Sentence Issue Date: November 25, 2014 Tag der Begebung: 25. November 2014  
+
+
+Date number 6
+Date : July 4, 2014
+Line Number 44
+Sentence Terms. The Conditions shall replace in full the Terms and Conditions of the Notes set forth in the Simplified Prospectus dated July 4, 2014 pertaining to the Programme, as the same may be supplemented from time to time. The Conditions shall take precedence over any 
+
+
+Date number 7
+Date : January 5, 2015
+Line Number 209
+Sentence   Exchange Date not earlier than January 5, 2015  Austauschtag frühestens am 5. Januar 2015 
+
+
+Date number 8
+Date : November 25, 2014
+Line Number 304
+Sentence   Interest Commencement Date November 25, 2014  Verzinsungsbeginn 25. November 2014 
+
+
+Date number 9
+Date : 25. November 2014
+Line Number 305
+Sentence  Interest Commencement Date November 25, 2014  Verzinsungsbeginn 25. November 2014  
+
+
+Date number 10
+Date : 25. November
+Line Number 308
+Sentence  Fixed Interest Dates November 25 in each year  Festzinstermine  25. November eines jeden Jahres  
+
+
+Date number 11
+Date : November 25, 2015
+Line Number 310
+Sentence   First Interest Payment Date November 25, 2015  Erster Zinszahlungstag 25. November 2015 
+
+
+Date number 12
+Date : 25. November 2015
+Line Number 311
+Sentence  First Interest Payment Date November 25, 2015  Erster Zinszahlungstag 25. November 2015  
+
+
+Date number 13
+Date : November 25
+Line Number 353
+Sentence  Determination Date(s) one in each year (November 25) Feststellungstermin(e) einer in jedem Jahr (25. November) 
+
+
+Date number 14
+Date : 25. November
+Line Number 354
+Sentence Determination Date(s) one in each year (November 25) Feststellungstermin(e) einer in jedem Jahr (25. November)  
+
+
+Date number 15
+Date : November 25, 2019
+Line Number 416
+Sentence   Maturity Date November 25, 2019  Fälligkeitstag 25. November 2019 
+
+
+Date number 16
+Date : 25. November 2019
+Line Number 417
+Sentence  Maturity Date November 25, 2019  Fälligkeitstag 25. November 2019  
+
+
+Date number 17
+Date : 12 
+6032
+Line Number 514
+Sentence Trust & Securities Services Taunusanlage 12 60325 Frankfurt am Main 
+
+
+Date number 18
+Date : November 25, 2014
+Line Number 704
+Sentence Euro 30,000,000,000 Debt Issuance Programme of Landeskreditbank Baden-Württemberg - Förderbank (as from November 25, 2014) on the Luxembourg Stock Exchange and the Stuttgart Stock Exchange. 
+
+
+Date number 19
+Date : 25. November 2014
+Line Number 709
+Sentence 30,000,000,000 Debt Issuance Programme der Landeskreditbank Baden-Württemberg - Förderbank (ab dem 25. November 2014) an der Luxemburger Börse und der Stuttgarter Börse erforderlich sind. 
+
+
+Date number 20
+Date : 25. November 2014
+Line Number 818
+Sentence (1) Zinssatz und Zinszahlungstage. Die Schuldverschreibungen werden in Höhe ihres Nennbetrags verzinst, und zwar vom 25. November 2014 (einschließlich) bis zum Fälligkeitstag (wie in § 5 definiert) (ausschließlich) mit 0,250 % per annum. Die Zinsen sind 
+
+
+Date number 21
+Date : 25. November
+Line Number 820
+Sentence Fälligkeitstag (wie in § 5 definiert) (ausschließlich) mit 0,250 % per annum. Die Zinsen sind nachträglich am 25. November eines jeden Jahres zahlbar (jeweils ein “Zinszahlungstag”). Die erste Zinszahlung erfolgt am 25. November 2015.  
+
+
+Date number 22
+Date : 25. November 2015
+Line Number 821
+Sentence nachträglich am 25. November eines jeden Jahres zahlbar (jeweils ein “Zinszahlungstag”). Die erste Zinszahlung erfolgt am 25. November 2015.   
+
+
+Date number 23
+Date : 25. November
+Line Number 876
+Sentence Die Anzahl der Zinszahlungstage im Kalenderjahr (jeweils ein "Feststellungstermin") beträgt eins (jeder 25. November).  
+
+
+Date number 24
+Date : 25. November 
+2019
+Line Number 951
+Sentence werden die Schuldverschreibungen, vorbehaltlich einer Anpassung in Übereinstimmung mit den in § 4 (5) enthaltenen Bestimmungen, zu ihrem Rückzahlungsbetrag am 25. November 2019 (der "Fälligkeitstag") zurückgezahlt. Der "Rückzahlungsbetrag" in Bezug auf jede 
+
+
+Date number 25
+Date : 12 
+ 6032
+Line Number 967
+Sentence  Trust & Securities Services  Taunusanlage 12  60325 Frankfurt am Main 
+
+
+Date number 26
+Date : July 4, 2014
+Line Number 1182
+Sentence This Tranche of Notes is issued pursuant to an Amended and Restated Fiscal Agency Agreement dated July 4, 2014 (the "Agency Agreement") between Landeskreditbank Baden-Württemberg - Förderbank ("L-Bank" or the "Issuer") and Deutsche Bank 
+
+
+Date number 27
+Date : November 25,  
+2014
+Line Number 1254
+Sentence (1) Rate of Interest and Interest Payment Dates. The Notes shall bear interest on their principal amount at the rate of 0.250 per cent. per annum from (and including) November 25,  2014 to (but excluding) the Maturity Date (as defined in § 5). Interest shall be payable in 
+
+
+Date number 28
+Date : November 25
+Line Number 1256
+Sentence 2014 to (but excluding) the Maturity Date (as defined in § 5). Interest shall be payable in arrear on November 25 in each year (each such date, an "Interest Payment Date"). The first payment of interest shall be made on November 25, 2015. 
+
+
+Date number 29
+Date : November 25, 2015
+Line Number 1257
+Sentence arrear on November 25 in each year (each such date, an "Interest Payment Date"). The first payment of interest shall be made on November 25, 2015.  
+
+
+Date number 30
+Date : January 1 and July 1
+Line Number 1286
+Sentence (1)  The default rate of interest established by law is five percentage points above the basic rate of interest published by Deutsche Bundesbank for the periods as of January 1 and July 1, respectively, of each year, §§ 288(1), 247(1) German Civil Code. 
+
+
+Date number 31
+Date : November 25
+Line Number 1306
+Sentence The number of Interest Payment Dates per calendar year (each a "Determination Date") is one (each November 25).  
+
+
+Date number 32
+Date : next day
+Line Number 1342
+Sentence Day") would otherwise fall on a day which is not a Business Day (as defined below), the Payment Day shall be postponed to the next day which is a Business Day.  
+
+
+Date number 33
+Date : November 25, 2019
+Line Number 1376
+Sentence adjustment in accordance with the provisions set out in § 4(5), the Notes shall be redeemed at their Final Redemption Amount on November 25, 2019 (the "Maturity Date"). The "Final Redemption Amount" in respect of each Note shall be its principal amount. 
+
+
+Date number 34
+Date : 12 
+  6032
+Line Number 1388
+Sentence   Trust & Securities Services   Taunusanlage 12   60325 Frankfurt am Main 
+
+
+Date number 35
+Date : 28  
+ 
+ 
+may
+Line Number 1459
+Sentence (b) the Issuer and the Substituted Issuer have obtained all necessary authorisations and  28   
+
+--------------------------------------------------------------------------------------------------------------------------
+
+----------------Keyword Matching Data------------------
+
+Date : November 25, 2014
+Line Number 35
+ issue date: november 25, 2014 tag der begebung: 25. november 2014 
+KEYWORD TYPE : ISSUE
+
+Date : 25. November 2014
+Line Number 36
+issue date: november 25, 2014 tag der begebung: 25. november 2014  
+KEYWORD TYPE : ISSUE
+
+Date : November 25, 2019
+Line Number 416
+  maturity date november 25, 2019  fälligkeitstag 25. november 2019 
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : 25. November 2019
+Line Number 417
+ maturity date november 25, 2019  fälligkeitstag 25. november 2019  
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : July 4, 2014
+Line Number 1182
+this tranche of notes is issued pursuant to an amended and restated fiscal agency agreement dated july 4, 2014 (the "agency agreement") between landeskreditbank baden-württemberg - förderbank ("l-bank" or the "issuer") and deutsche bank 
+KEYWORD TYPE : ISSUE
+
+Date : November 25,  
+2014
+Line Number 1254
+(1) rate of interest and interest payment dates. the notes shall bear interest on their principal amount at the rate of 0.250 per cent. per annum from (and including) november 25,  2014 to (but excluding) the maturity date (as defined in § 5). interest shall be payable in 
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : November 25
+Line Number 1256
+2014 to (but excluding) the maturity date (as defined in § 5). interest shall be payable in arrear on november 25 in each year (each such date, an "interest payment date"). the first payment of interest shall be made on november 25, 2015. 
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : November 25, 2019
+Line Number 1376
+adjustment in accordance with the provisions set out in § 4(5), the notes shall be redeemed at their final redemption amount on november 25, 2019 (the "maturity date"). the "final redemption amount" in respect of each note shall be its principal amount. 
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : 28  
+ 
+ 
+may
+Line Number 1459
+(b) the issuer and the substituted issuer have obtained all necessary authorisations and  28   
+KEYWORD TYPE : ISSUE
+

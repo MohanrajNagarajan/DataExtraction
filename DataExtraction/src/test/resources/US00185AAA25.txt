@@ -1,0 +1,457 @@
+
+Date number 0
+Date : at 5:00 p.m.
+Line Number 22
+Sentence that have been registered under the Securities Act of 1933, as amended (the “Securities Act”)The exchange offer will expire at 5:00 p.m.,New York City time, on May 13, 2013, unless extended.
+
+
+Date number 1
+Date : May 13, 2013
+Line Number 23
+Sentence The exchange offer will expire at 5:00 p.m.,New York City time, on May 13, 2013, unless extended. 
+
+
+Date number 2
+Date : 5:00 p.m.
+Line Number 43
+Sentence  We will accept for exchange any and all original notes validly tendered and not validly withdrawn prior to 5:00 p.m., New York Citytime, on May 13, 2013, unless the exchange offer is extended (the “expiration date”).
+
+
+Date number 3
+Date : May 13, 2013
+Line Number 44
+Sentence We will accept for exchange any and all original notes validly tendered and not validly withdrawn prior to 5:00 p.m., New York Citytime, on May 13, 2013, unless the exchange offer is extended (the “expiration date”). 
+
+
+Date number 4
+Date : April 15, 2013
+Line Number 75
+Sentence  The date of this prospectus is April 15, 2013 
+
+
+Date number 5
+Date : December 31,
+2012
+Line Number 189
+Sentence Further information about factors that could materially affect Aon, including our results of operations and financial condition, iscontained in the “Risk Factors” sections in Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31,2012.
+
+
+Date number 6
+Date : 14 or 15
+Line Number 204
+Sentence following documents that we have filed with the SEC and any future filings that we make with the SEC under Sections 13(a), 13(c),14 or 15(d) of the Securities Exchange Act of 1934, as amended, which we refer to as the “Exchange Act,” (i) after the date of theinitial registration statement and prior to effectiveness of the registration statement and (ii) after the date of this prospectus and before
+
+
+Date number 7
+Date : December 31, 2012
+Line Number 209
+Sentence  ·                  Annual Report on Form 10-K for the year ended December 31, 2012 filed with the SEC on February 22, 2013;·                  Definitive Proxy Statement on Schedule 14A filed on April 1, 2013; and
+
+
+Date number 8
+Date : February 22, 2013
+Line Number 209
+Sentence  ·                  Annual Report on Form 10-K for the year ended December 31, 2012 filed with the SEC on February 22, 2013;·                  Definitive Proxy Statement on Schedule 14A filed on April 1, 2013; and
+
+
+Date number 9
+Date : April 1, 2013
+Line Number 210
+Sentence ·                  Annual Report on Form 10-K for the year ended December 31, 2012 filed with the SEC on February 22, 2013;·                  Definitive Proxy Statement on Schedule 14A filed on April 1, 2013; and·                  Current Reports on Form 8-K dated March 8, 2013 and March 19, 2013.
+
+
+Date number 10
+Date : March 8, 2013 and March 19, 2013
+Line Number 211
+Sentence ·                  Definitive Proxy Statement on Schedule 14A filed on April 1, 2013; and·                  Current Reports on Form 8-K dated March 8, 2013 and March 19, 2013. 
+
+
+Date number 11
+Date : December 31, 2012
+Line Number 265
+Sentence range of human capital, retirement, investment management, health care, compensation and talent management strategies. As ofDecember 31, 2012, we had approximately 65,000 employees and conducted our operations through various subsidiaries in morethan 120 countries and sovereignties.
+
+
+Date number 12
+Date : April 2, 2012
+Line Number 268
+Sentence  On April 2, 2012, we completed the reorganization of the corporate structure of the group of companies controlled by AonCorporation, Aon plc’s predecessor as the ultimate holding company of the Aon group. In this prospectus, we refer to this transaction
+
+
+Date number 13
+Date : December 12, 2012
+Line Number 291
+Sentence  On December 12, 2012, in connection with a private exchange offer, we issued $165,946,000 aggregate principal amount of4.250% Notes Due 2042 (the “initial issuance”). As part of the initial issuance, we entered into a registration rights agreement
+
+
+Date number 14
+Date : December 12, 2012
+Line Number 293
+Sentence 4.250% Notes Due 2042 (the “initial issuance”). As part of the initial issuance, we entered into a registration rights agreementwith the dealer managers of the private exchange offer, dated as of December 12, 2012, in which we and the Guarantor agreed,among other things, to deliver this prospectus to you and to use all commercially reasonable efforts to complete an exchange
+
+
+Date number 15
+Date : March 8, 2013
+Line Number 298
+Sentence form a single series with, the original notes issued in the initial issuance.  As part of the subsequent issuance, we entered into aregistration rights agreement with the initial purchasers in the private offer, dated as of March 8, 2013, in which we and theGuarantor agreed, among other things, to deliver this prospectus to you and to use all commercially reasonable efforts to
+
+
+Date number 16
+Date : December 12, 2012
+Line Number 322
+Sentence original notes outstanding. The $255,946,000 aggregate principal amount of original notes wereissued under the indenture, dated as of December 12, 2012, between Aon plc, Aon Corporation andThe Bank of New York Mellon Trust Company, N.A., as trustee (the “Trustee”) (“Indenture”). If all
+
+
+Date number 17
+Date : at 5:00 p.m.
+Line Number 329
+Sentence  The exchange offer will expire at 5:00 p.m., New York City time, on May 13, 2013, which is thetwenty-first business day of the offering period, unless we extend the period of time during which the
+
+
+Date number 18
+Date : May 13, 2013
+Line Number 329
+Sentence  The exchange offer will expire at 5:00 p.m., New York City time, on May 13, 2013, which is thetwenty-first business day of the offering period, unless we extend the period of time during which the
+
+
+Date number 19
+Date : 5:00 p.m.
+Line Number 405
+Sentence  Tenders may be withdrawn at any time before 5:00 p.m., New York City time, on the expiration date.See “The Exchange Offer—Withdrawal Rights.”
+
+
+Date number 20
+Date : 5:00 p.m.
+Line Number 414
+Sentence Offer” of this prospectus, we will accept for exchange any and all original notes which are properlytendered in the exchange offer and not validly withdrawn before 5:00 p.m., New York City time, onthe expiration date. The exchange notes will be delivered promptly after the expiration date. See “The
+
+
+Date number 21
+Date : December 12, 2042
+Line Number 543
+Sentence   Maturity December 12, 2042  
+
+
+Date number 22
+Date : June 12 and December 12
+Line Number 546
+Sentence Interest Interest will accrue at the rate of 4.250% per annum, and will be payable in cashsemi-annually in arrears on June 12 and December 12 of each year (or if the twelfthday of any such month is not a business day (as defined herein), on the next business
+
+
+Date number 23
+Date : December 31, 2012
+Line Number 557
+Sentence secured indebtedness of Aon plc to the extent of the assets securing suchindebtedness. As of December 31, 2012, Aon plc had no secured indebtedness forborrowed money. The exchange notes will be structurally subordinated to all of the
+
+
+Date number 24
+Date : December 31, 2012
+Line Number 560
+Sentence secured and unsecured indebtedness and other liabilities of Aon plc’s subsidiaries(other than, by virtue of the guarantee, Aon Corporation). As of December 31, 2012,Aon plc’s subsidiaries other than Aon Corporation had approximately $5.7 billion of
+
+
+Date number 25
+Date : December 31, 2012
+Line Number 569
+Sentence secured indebtedness of Aon Corporation to the extent of the assets securing suchindebtedness. As of December 31, 2012, Aon Corporation had no securedindebtedness for borrowed money. The guarantee will be structurally subordinated to
+
+
+Date number 26
+Date : December 31, 2012
+Line Number 572
+Sentence all of the existing and future secured and unsecured indebtedness and other liabilitiesof Aon Corporation’s subsidiaries. As of December 31, 2012, Aon Corporation’ssubsidiaries had approximately $5.0 billion of outstanding indebtedness and other
+
+
+Date number 27
+Date : December 31, 2012
+Line Number 658
+Sentence indebtedness Aon Corporation or its subsidiaries may incur, in each case to the extent of the value of the assets securing suchindebtedness.  As of December 31, 2012, neither we nor Aon Corporation had any secured indebtedness for borrowed money, and asof the same date, our subsidiaries other than Aon Corporation had approximately $5.7 billion of outstanding indebtedness and Aon
+
+
+Date number 28
+Date : December 31, 2012
+Line Number 689
+Sentence that expires in 2017. The U.S. facility is for general corporate purposes, including commercial paper support. Additionally, we havea five-year €650 million ($860 million at December 31, 2012 exchange rates) multi-currency foreign credit facility (“Euro Facility”)available, which expires in October 2015. At December 31, 2012, we had no borrowings under either of these credit facilities.  At
+
+
+Date number 29
+Date : 3.25 to 1.00
+Line Number 705
+Sentence expense must be at least 4 to 1. For the Euro Facility, the ratio of consolidated debt to Adjusted EBITDA must not exceed 3 to 1. Forthe U.S. Facility, the ratio of consolidated debt to Adjusted EBITDA must not exceed the lower of (a) 3.25 to 1.00 or (b) the greaterof (i) 3.00 to 1.00 or (ii) the lowest ratio of consolidated debt to Adjusted EBITDA then set forth in the Euro Facility or our
+
+
+Date number 30
+Date : 3.00 to 1.00
+Line Number 706
+Sentence the U.S. Facility, the ratio of consolidated debt to Adjusted EBITDA must not exceed the lower of (a) 3.25 to 1.00 or (b) the greaterof (i) 3.00 to 1.00 or (ii) the lowest ratio of consolidated debt to Adjusted EBITDA then set forth in the Euro Facility or our$450,000,000 term loan facility. The Indenture does not include similar covenants. Failure to comply with the covenants contained in
+
+
+Date number 31
+Date : December 12, 2012
+Line Number 820
+Sentence  When we completed the initial issuance of original notes in connection with a private exchange offer on December 12, 2012(the “initial settlement date”), we and the Guarantor entered into a registration rights agreement with the dealer managers of the
+
+
+Date number 32
+Date : March 8, 2013
+Line Number 823
+Sentence private exchange offer (the “initial registration rights agreement”). In addition, when we completed the subsequent issuance oforiginal notes in connection with the private offer on March 8, 2013, we and the Guarantor entered into a registration rights agreementwith the initial purchasers in the private offer (the “subsequent registration rights agreement” and, together with the initial registration
+
+
+Date number 33
+Date : 5:00 p.m.
+Line Number 848
+Sentence Upon the terms and subject to the conditions described in this prospectus and in the accompanying letter of transmittal, whichtogether constitute the exchange offer, we will accept for exchange original notes that are properly tendered before 5:00 p.m., NewYork City time, on the expiration date and not validly withdrawn as permitted below. We will issue a like principal amount of
+
+
+Date number 34
+Date : May 13, 2013
+Line Number 851
+Sentence exchange notes in exchange for the principal amount of the corresponding original notes tendered under the exchange offer. As used inthis prospectus, the term “expiration date” means May 13, 2013, which is the twenty-first business day of the offering period.However, if we have extended the period of time for which the exchange offer is open, the term “expiration date” means the latest
+
+
+Date number 35
+Date : 9:00 a.m.
+Line Number 880
+Sentence as promptly as practicable. Such notice, in the case of any extension, will be issued by means of a press release or other publicannouncement no later than 9:00 a.m., New York City time, on the next business day after the previously scheduled expiration date. 
+
+
+Date number 36
+Date : December 12, 2012
+Line Number 989
+Sentence amount equal to that of the surrendered original note. Since no interest has been paid on the original notes, holders of exchange noteswill receive interest accruing from December 12, 2012. Original notes accepted for exchange will cease to accrue interest from andafter the date of completion of the exchange offer. Holders of original notes whose original notes are accepted for exchange will not
+
+
+Date number 37
+Date : 5:00 p.m.
+Line Number 1044
+Sentence For a withdrawal to be effective, the exchange agent must receive a written notice of withdrawal at the address or, in the caseof eligible institutions, at the facsimile number, indicated below under “—Exchange Agent” before 5:00 p.m., New York City time, onthe expiration date. Any notice of withdrawal must:
+
+
+Date number 38
+Date : 5:00 p.m.
+Line Number 1076
+Sentence notes may be re-tendered by following the procedures described under “ — Procedures for Tendering” above at any time on or before5:00 p.m., New York City time, on the expiration date. 
+
+
+Date number 39
+Date : 5:00 p.m.
+Line Number 1081
+Sentence Notwithstanding any other provision of the exchange offer, we shall not be required to accept for exchange, or to issue exchangenotes in exchange for, any original notes, and may terminate or amend the exchange offer, if at any time prior to 5:00 p.m., New YorkCity time, on the expiration date any of the following events occurs:
+
+
+Date number 40
+Date : December 12, 2012
+Line Number 1185
+Sentence  On December 12, 2012, we and the Guarantor entered into the initial registration rights agreement with the dealer managers ofthe private exchange offers. In addition, when we completed the subsequent issuance of the original notes in connection with the
+
+
+Date number 41
+Date : March 8, 2013
+Line Number 1187
+Sentence the private exchange offers. In addition, when we completed the subsequent issuance of the original notes in connection with theprivate offer on March 8, 2013, we and the Guarantor entered into the subsequent registration rights agreement with the initialpurchasers in the private offer. Pursuant to the registration rights agreements, we and the Guarantor agreed to conduct a registered
+
+
+Date number 42
+Date : December 31,
+ 
+  
+2012
+ 
+2011
+Line Number 1271
+Sentence   For the Year Ended December 31, 
+
+
+Date number 43
+Date : December 12, 2042
+Line Number 1350
+Sentence  The notes will bear interest at a rate of 4.250% per annum, and will mature on December 12, 2042, unless redeemed prior tomaturity as contemplated below. The notes will accrue interest on their stated principal amount from and including the most recent
+
+
+Date number 44
+Date : December 12, 2012
+Line Number 1353
+Sentence interest payment date to which interest has been paid or duly provided for on the original notes or, if no interest has been paid, fromDecember 12, 2012. Accrued and unpaid interest on the notes will be payable semi-annually in arrears on June 12 and December 12of each year, commencing on June 12, 2013. We will pay interest to the persons who are registered holders at the close of business on
+
+
+Date number 45
+Date : June 12 and December 12
+Line Number 1353
+Sentence interest payment date to which interest has been paid or duly provided for on the original notes or, if no interest has been paid, fromDecember 12, 2012. Accrued and unpaid interest on the notes will be payable semi-annually in arrears on June 12 and December 12of each year, commencing on June 12, 2013. We will pay interest to the persons who are registered holders at the close of business on
+
+
+Date number 46
+Date : June 12, 2013
+Line Number 1354
+Sentence December 12, 2012. Accrued and unpaid interest on the notes will be payable semi-annually in arrears on June 12 and December 12of each year, commencing on June 12, 2013. We will pay interest to the persons who are registered holders at the close of business onthe June 1 and December 1, as the case may be, immediately preceding each interest payment date (whether or not a business day). 
+
+
+Date number 47
+Date : Saturday or Sunday
+Line Number 1356
+Sentence the June 1 and December 1, as the case may be, immediately preceding each interest payment date (whether or not a business day). The term “business day” shall mean, with respect to any note, a day (other than a Saturday or Sunday) that in the City of Chicago andthe Borough of Manhattan, The City of New York, is neither a legal holiday nor a day on which banking institutions are authorized or
+
+
+Date number 48
+Date : December 31, 2012
+Line Number 1394
+Sentence than, by virtue of the guarantee, Aon Corporation), and the guarantee will be effectively subordinated to all of Aon Corporation’sexisting and future secured debt and to the existing and future debt of Aon Corporation’s subsidiaries.”  As of December 31, 2012,Aon plc had no secured indebtedness for borrowed money, and Aon plc’s subsidiaries other than Aon Corporation had approximately
+
+
+Date number 49
+Date : December 31, 2012
+Line Number 1398
+Sentence other current liabilities and non-current liabilities, but excluding intercompany liabilities and fiduciary liabilities, or approximately55% of Aon plc’s total consolidated liabilities. As of December 31, 2012, Aon Corporation (excluding subsidiaries) had no securedindebtedness for borrowed money and had approximately $4.6 billion of outstanding indebtedness and other liabilities, including
+
+
+Date number 50
+Date : December 31, 2012
+Line Number 1401
+Sentence trade payables, pension and other post employment liabilities, other current liabilities and non-current liabilities, but excludingintercompany liabilities and fiduciary liabilities. As of December 31, 2012, Aon Corporation’s subsidiaries had no securedindebtedness for borrowed money and had approximately $5.0 billion of outstanding indebtedness and other liabilities, including
+
+
+Date number 51
+Date : December 12, 2042
+Line Number 1409
+Sentence  Unless earlier redeemed or repurchased, the notes will mature and be payable at par on December 12, 2042. 
+
+
+Date number 52
+Date : at 5:00 p.m.
+Line Number 1451
+Sentence average, as determined by the Trustee, of the bid and asked prices for the Comparable Treasury Issue (expressed in each case as apercentage of its principal amount) quoted in writing to the Trustee by such Reference Treasury Dealer at 5:00 p.m., New York Citytime, on the third business day preceding such redemption date.
+
+
+Date number 53
+Date : December 13, 2001
+Line Number 1609
+Sentence on the taxation of savings income relating to the proposal for a directive on the taxation of savings income published bythe ECOFIN Council on December 13, 2001 or any other Directive implementing the conclusions of the ECOFINCouncil meeting of November 26-27, 2000 on the taxation of savings income, or any law implementing or complying
+
+
+Date number 54
+Date : November 26
+Line Number 1610
+Sentence the ECOFIN Council on December 13, 2001 or any other Directive implementing the conclusions of the ECOFINCouncil meeting of November 26-27, 2000 on the taxation of savings income, or any law implementing or complyingwith, or introduced in order to conform to, such Directive;
+
+
+Date number 55
+Date : November 26
+Line Number 1635
+Sentence taxes pursuant to any law implementing European Council Directive 2003/48/EC or any other Directive implementing the conclusionsof the ECOFIN Council meeting of November 26-27, 2000 on the taxation of savings income, provided there is at least one memberstate that does not require a paying agent to withhold or deduct pursuant to such Directive.
+
+
+Date number 56
+Date : 13.02 and 13.04
+Line Number 1774
+Sentence Service a ruling or, since the date of execution of the Indenture, there has been a change in the applicable United States federalincome tax law, in any case, in support of that opinion. (Sections 13.02 and 13.04 of the Indenture). 
+
+
+Date number 57
+Date : 13.03 and 13.04
+Line Number 1796
+Sentence  (Sections 13.03 and 13.04 of the Indenture). 
+
+
+Date number 58
+Date : may or may
+Line Number 1914
+Sentence beneficial ownership.  DTC has no knowledge of the actual beneficial owners of the notes.  DTC’s records reflect only the identity ofthe direct participants to whose accounts such notes are credited, which may or may not be the beneficial owners.  The participantswill remain responsible for keeping account of their holdings on behalf of their customers.
+
+
+Date number 59
+Date : 30
+days
+Line Number 2104
+Sentence  Any Delay in providing the above identifying information will result in the deferral of the relevant interest payment until 30days after the date of receipt of such information.
+
+
+Date number 60
+Date : 16 June 2006
+Line Number 2481
+Sentence a qualified investor (investisseur qualifié/gekwalificeerde belegger) within the meaning of Article 10, §1 of the Belgian Lawof 16 June 2006 on the public offering of securities and the admission of securities to trading on a regulated market (asamended from time to time);
+
+
+Date number 61
+Date : 22 April 2003
+Line Number 2602
+Sentence prospectus has been notified to the Belgian Banking, Finance and Insurance Commission (Commission bancaire, financière et desassurances) pursuant to Article 18 of the Belgian law of 22 April 2003 on the public offering of securities (the “Law on PublicOfferings”) nor has this prospectus been, nor will it be, approved by the Belgian Banking, Finance and Insurance Commission
+
+
+Date number 62
+Date : 1 April 2007
+Line Number 2606
+Sentence prospectus and any other information circular, brochure or similar document relating to the exchange offer may be distributed, directlyor indirectly, in Belgium only to qualified investors referred to in Article 6, paragraph 3 of the Law of 1 April 2007 on publicacquisition offers, acting for their own account.
+
+
+Date number 63
+Date : December 31, 2012
+Line Number 2650
+Sentence The consolidated financial statements of Aon plc appearing in Aon plc’s Annual Report (Form 10-K) for the year endedDecember 31, 2012, and the effectiveness of Aon plc’s internal control over financial reporting as of December 31, 2012, have beenaudited by Ernst & Young LLP, independent registered public accounting firm, as set forth in their reports thereon, included therein,
+
+
+Date number 64
+Date : December 31, 2012
+Line Number 2653
+Sentence and incorporated herein by reference. Such consolidated financial statements and Aon plc management’s assessment of theeffectiveness of internal control over financial reporting as of December 31, 2012 are incorporated herein by reference in relianceupon such reports given on the authority of such firm as experts in accounting and auditing.
+
+
+Date number 65
+Date : April 15, 2013
+Line Number 2672
+Sentence  April 15, 2013 
+
+--------------------------------------------------------------------------------------------------------------------------
+
+----------------Keyword Matching Data------------------
+
+Date : December 12, 2012
+Line Number 291
+ on december 12, 2012, in connection with a private exchange offer, we issued $165,946,000 aggregate principal amount of4.250% notes due 2042 (the “initial issuance”). as part of the initial issuance, we entered into a registration rights agreement
+KEYWORD TYPE : ISSUE
+
+Date : March 8, 2013
+Line Number 298
+form a single series with, the original notes issued in the initial issuance.  as part of the subsequent issuance, we entered into aregistration rights agreement with the initial purchasers in the private offer, dated as of march 8, 2013, in which we and theguarantor agreed, among other things, to deliver this prospectus to you and to use all commercially reasonable efforts to
+KEYWORD TYPE : ISSUE
+
+Date : December 12, 2012
+Line Number 322
+original notes outstanding. the $255,946,000 aggregate principal amount of original notes wereissued under the indenture, dated as of december 12, 2012, between aon plc, aon corporation andthe bank of new york mellon trust company, n.a., as trustee (the “trustee”) (“indenture”). if all
+KEYWORD TYPE : ISSUE
+
+Date : December 12, 2042
+Line Number 543
+  maturity december 12, 2042  
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : 5:00 p.m.
+Line Number 848
+upon the terms and subject to the conditions described in this prospectus and in the accompanying letter of transmittal, whichtogether constitute the exchange offer, we will accept for exchange original notes that are properly tendered before 5:00 p.m., newyork city time, on the expiration date and not validly withdrawn as permitted below. we will issue a like principal amount of
+KEYWORD TYPE : ISSUE
+
+Date : May 13, 2013
+Line Number 851
+exchange notes in exchange for the principal amount of the corresponding original notes tendered under the exchange offer. as used inthis prospectus, the term “expiration date” means may 13, 2013, which is the twenty-first business day of the offering period.however, if we have extended the period of time for which the exchange offer is open, the term “expiration date” means the latest
+KEYWORD TYPE : ISSUE
+
+Date : 9:00 a.m.
+Line Number 880
+as promptly as practicable. such notice, in the case of any extension, will be issued by means of a press release or other publicannouncement no later than 9:00 a.m., new york city time, on the next business day after the previously scheduled expiration date. 
+KEYWORD TYPE : ISSUE
+
+Date : 5:00 p.m.
+Line Number 1081
+notwithstanding any other provision of the exchange offer, we shall not be required to accept for exchange, or to issue exchangenotes in exchange for, any original notes, and may terminate or amend the exchange offer, if at any time prior to 5:00 p.m., new yorkcity time, on the expiration date any of the following events occurs:
+KEYWORD TYPE : ISSUE
+
+Date : December 12, 2042
+Line Number 1350
+ the notes will bear interest at a rate of 4.250% per annum, and will mature on december 12, 2042, unless redeemed prior tomaturity as contemplated below. the notes will accrue interest on their stated principal amount from and including the most recent
+KEYWORD TYPE : MATURITY AMOUNT
+
+Date : at 5:00 p.m.
+Line Number 1451
+average, as determined by the trustee, of the bid and asked prices for the comparable treasury issue (expressed in each case as apercentage of its principal amount) quoted in writing to the trustee by such reference treasury dealer at 5:00 p.m., new york citytime, on the third business day preceding such redemption date.
+KEYWORD TYPE : ISSUE
+
